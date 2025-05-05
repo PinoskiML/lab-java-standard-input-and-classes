@@ -1,0 +1,11 @@
+[Employee: name='Karl', email='Karl@HQ.com', age=22, salary=124430.0
+, Employee: name='Jimmy', email='Jimmy@HQ.com', age=24, salary=22000.0
+, Employee: name='Jay', email='jay@HQ.com', age=25, salary=20400.0
+, Employee: name='Jackson', email='Jackson@HQ.com', age=32, salary=22000.0
+, Employee: name='Junior', email='Junior@HQ.com', age=42, salary=23300.0
+, Employee: name='Sam', email='Sam5@HQ.com', age=22, salary=20323.45
+, Employee: name='Karlton', email='Karlton@HQ.com', age=52, salary=33000.0
+, Employee: name='Kimmy', email='Kimmy@HQ.com', age=42, salary=23003.12
+, Employee: name='Kroll', email='Kroll@HQ.com', age=23, salary=19540.43
+, Employee: name='Dean', email='Dean@HQ.com', age=22, salary=20000.0
+]
